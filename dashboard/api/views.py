@@ -136,3 +136,17 @@ def getTopTerritory(request):
         if str(e):
             error.append(str(e))
         return ResponseError(error)
+    
+# ______________________________________________________
+@api_view(['POST'])
+def getDashboard(request):
+    try:
+        startDate, endDate = getQueryDatesCRUD(request)
+        result = getDashboardCRUD(startDate, endDate)
+        
+        serializedResult = SerializeResponse(result)
+        
+        return ResponseObject(serializedResult)
+    
+    except Exception as e:
+        return ResponseError(str(e))

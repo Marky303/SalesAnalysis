@@ -63,7 +63,7 @@ class SpecialOfferDim(models.Model):
     
     # Admin page default function
     def __str__(self):
-        return str(self.id) + ". " + self.Name + " " + str(self.DiscountPct) + "%" + " off"
+        return str(self.id) + ". " + " " + str(self.DiscountPct) + "%" + " off"
 
 
 # FACTS___________________________________________________________________________
@@ -95,4 +95,4 @@ class SalesOrderDetailFact(models.Model):
     
     # Admin page default function
     def __str__(self):
-        return str(self.id) + ". " + str(self.TotalDue)
+        return str(self.id) + ". " + str(self.LineTotal)

@@ -5,6 +5,8 @@ from . import views
 
 # Setting up urls patterns
 urlpatterns = [
+    path('getdashboard/'               , views.getDashboard),
+    
     path('overviewstats/'               , views.getOverviewStats),    
     path('overviewprogression/'         , views.getOverviewProgression),         
     path('topproducts/'                 , views.getTopProducts),

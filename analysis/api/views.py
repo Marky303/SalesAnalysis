@@ -19,18 +19,9 @@ from analysis.gemini.Functions.SerializeResponse import SerializeResponse
 
 # Handle and process prompt
 @api_view(['POST'])
-@permission_classes([IsAuthenticated])
 def HandlePrompt(request):
     try:
         error = []
-    
-        # Verify if user is an employee
-        if not VerifyEmployee(request):
-            raise Exception("You are not an employee")
-        
-        # Check if there is an error
-        if error:
-            raise Exception()
         
         # Handle user prompt in request
         result = GeminiController(request)
