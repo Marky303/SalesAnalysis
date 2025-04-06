@@ -13,12 +13,12 @@ Hệ cơ sở dữ liệu production:
 ![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
 
 Hệ cơ sở dữ liệu analysis:
-![image_alt]([https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/Datawarehosue.png)
+![image_alt](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/Datawarehosue.png)
 
 
 Một phần dữ liệu mẫu: 
-![image_alt]([https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/example1.png)
-![image_alt]([https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/example2.png)
+![image_alt](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/example1.png)
+![image_alt](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/example2.png)
 
 ## 3.Cách clone backend (IMPORTANT)
 ### Bước 1: Clone repo của backend về
