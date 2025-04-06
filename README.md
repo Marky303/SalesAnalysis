@@ -1,9 +1,21 @@
-# Đồ án hướng HTTT về Sales
+# Bài tập lớn dataware house về Sales
 
 ## 1.Giới thiệu
-Backend hệ hỗ trợ quyết định
+Backend hệ hỗ trợ quyết định bao gồm
+- **Production database**: Tìm hiểu, chọn lọc các dữ liệu cần thiết từ file dữ liệu và xây dựng hệ cơ sở dữ liệu vận hành (production database) dựa trên đề tài sales cho hệ thống.
+- **Analysis database**: Hệ cơ sở dữ liệu phân tích (analysis database) sử dụng các mô hình data warehouse.
+- **Extract, Transform and Load**: Xây dựng pipeline ETL di chuyển dữ liệu vận hành sang hệ cơ sở dữ liệu phân tích.
+- **Ứng dụng CRUD**: Hiện thực ứng dụng có các tính năng CRUD cho hệ thống.
+- **Dashboard**: Xây dựng dashboard hiển thị thông tin. Dashboard có các biểu đồ, thông tin được trình bày rõ ràng, dễ hiểu và liên quan đến usecase của hệ thống. 
+- **Phân tích**: Áp dụng các tính năng của AI như: prompt engineering, chat completion và function calling để rút ra các đánh giá hoặc dự đoán trên các thông tin hay dữ liệu hiện có.
 
-## 2.Cách clone backend (IMPORTANT)
+Hệ cơ sở dữ liệu:
+
+
+Một phần dữ liệu mẫu: 
+
+
+## 3.Cách clone backend (IMPORTANT)
 ### Bước 1: Clone repo của backend về
 - 1a. Mở CMD và CD vào folder cần clone backend
 
@@ -12,9 +24,9 @@ Backend hệ hỗ trợ quyết định
 git clone https://github.com/Marky303/SalesAnalysis
 ```
 
-- 1c. Sau khi clone, CD vào DA_HTTT_BE. Folder của backend sẽ như sau
+- 1c. Sau khi clone, CD vào SalesAnalysis. Folder của backend sẽ như sau
 ```
-cd DA_HTTT_BE
+cd SalesAnalysis
 ```
 
 ### Bước 2: Tải các thư viện 
