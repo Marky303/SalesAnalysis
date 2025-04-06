@@ -9,14 +9,16 @@ Backend hệ hỗ trợ quyết định bao gồm
 - **Dashboard**: Xây dựng dashboard hiển thị thông tin. Dashboard có các biểu đồ, thông tin được trình bày rõ ràng, dễ hiểu và liên quan đến usecase của hệ thống. 
 - **Phân tích**: Áp dụng các tính năng của AI như: prompt engineering, chat completion và function calling để rút ra các đánh giá hoặc dự đoán trên các thông tin hay dữ liệu hiện có.
 
-Hệ cơ sở dữ liệu:
+Hệ cơ sở dữ liệu production:
 ![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
-![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
+
+Hệ cơ sở dữ liệu analysis:
+![image_alt]([https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/Datawarehosue.png))
 
 
 Một phần dữ liệu mẫu: 
-![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
-![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
+![image_alt]([https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/example1.png))
+![image_alt]([https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png](https://github.com/Marky303/SalesAnalysis/blob/8e2f60afa4297202f11ce9ea43be43b3d4e464f8/images/example2.png))
 
 ## 3.Cách clone backend (IMPORTANT)
 ### Bước 1: Clone repo của backend về
