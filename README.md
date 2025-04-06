@@ -10,10 +10,13 @@ Backend hệ hỗ trợ quyết định bao gồm
 - **Phân tích**: Áp dụng các tính năng của AI như: prompt engineering, chat completion và function calling để rút ra các đánh giá hoặc dự đoán trên các thông tin hay dữ liệu hiện có.
 
 Hệ cơ sở dữ liệu:
+![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
+![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
 
 
 Một phần dữ liệu mẫu: 
-
+![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
+![image_alt](https://github.com/Marky303/SalesAnalysis/blob/4afa7f8f28cb450aa572375f136b20a02112d69f/images/mapping.png)
 
 ## 3.Cách clone backend (IMPORTANT)
 ### Bước 1: Clone repo của backend về
